@@ -22,10 +22,12 @@ Destination, What got shipped, Number of crates, Money we made
 * Leela - pilots everywhere else because she is the only responsible one
 
 3. How many trips did each employee pilot?
+
 * They get a bonus of 10% of the money for the shipment as the bonus
 * How much of a bonus did each employee get?
 
 4. BONUS 1
+
 * How much money did we make broken down by planet?
 * ie.. how much did we make shipping to Earth? Mars? Saturn? etc.
 
