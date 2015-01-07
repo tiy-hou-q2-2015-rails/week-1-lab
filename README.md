@@ -40,3 +40,11 @@ open("planet_express_logs.txt").each do |line|
 end
 ```
 
+
+Submitting Lab
+==========
+
+1. Create a Gist with your file that reads and processes data
+2. Submit a link to your Gist as an issue here
+3. Due: Monday, January 12th, 6:00 AM
+
