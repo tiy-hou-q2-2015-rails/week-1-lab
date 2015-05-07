@@ -29,7 +29,7 @@ After completing this assignment, you be able to effectively use
 
 ### Deliverables
 
-* A repo containing at least:
+* A gist containing at least:
   * `planet_express_logs.csv`
   * `data_parser.rb`
   * A Class "Delivery", with the data in the CSV file 
@@ -45,17 +45,18 @@ After completing this assignment, you be able to effectively use
 We have a week of records tracking what we shipped at Planet Express.  I need you to answer a few questions for Hermes.
 
 1. How much money did we make this week?
-2. Also, bonuses are paid to employees who pilot the Planet Express
+2. How much of a bonus did each employee get? (bonuses are paid to employees who pilot the Planet Express)
 3. How many trips did each employee pilot?
-5. Define and use a class for each shipment
+4. Define and use a class for each shipment
 
-* Different employees have favorite destinations they always pilot to
+Different employees have favorite destinations they always pilot to
+
 * Fry - pilots to Earth (because he isn't allowed into space)
 * Amy - pilots to Mars (so she can visit her family)
 * Bender - pilots to Uranus (teeheee...)
 * Leela - pilots everywhere else because she is the only responsible one
-* They get a bonus of 10% of the money for the shipment as the bonus
-* How much of a bonus did each employee get?
+
+They get a bonus of 10% of the money for the shipment as the bonus
             
 ## Hard Mode
 
@@ -88,4 +89,6 @@ end
 
 ## Additional Resources
 
-* Read []()
+* Read [http://www.nostarch.com/rubywizardry](RubyWizardry) if you feel lost on
+  Ruby basics
+* [CSV documentation](http://ruby-doc.org/stdlib-2.2.2/libdoc/csv/rdoc/CSV.html)
