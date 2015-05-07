@@ -1,0 +1,13 @@
+{
+    "name": "week-1-lab",
+    "version": "0.0.1",
+    "title": "week-1 Data",
+    "description": "parsing CSV and using classes",
+    "difficultyModes": [
+        "Normal",
+        "Hard"
+    ],
+    "keywords": [
+        "Ruby"
+    ]
+}
